@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/task1_wordcount/static/css/main.073c9b0a.css",
+    "main.js": "/task1_wordcount/static/js/main.f4bcfc7a.js",
+    "static/js/787.bbd01b5c.chunk.js": "/task1_wordcount/static/js/787.bbd01b5c.chunk.js",
+    "static/media/logo.svg": "/task1_wordcount/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/task1_wordcount/index.html",
+    "main.073c9b0a.css.map": "/task1_wordcount/static/css/main.073c9b0a.css.map",
+    "main.f4bcfc7a.js.map": "/task1_wordcount/static/js/main.f4bcfc7a.js.map",
+    "787.bbd01b5c.chunk.js.map": "/task1_wordcount/static/js/787.bbd01b5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4bcfc7a.js"
+  ]
+}
